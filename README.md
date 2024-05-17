@@ -19,4 +19,9 @@ Vamos a hacer un balanceador de carga con docker.
 
   3. AHora el conf que creamos antes:
 
-     
+  ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/1d60c22c-7687-4a70-892c-85b0e360f922)
+
+  4. Ahora accedemos a http://localhost:8085:
+
+
+     ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/2e775a54-41af-43b9-b378-da1410a6388d)
