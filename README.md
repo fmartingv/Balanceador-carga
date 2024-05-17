@@ -11,7 +11,8 @@ Vamos a hacer un balanceador de carga con docker.
 
   -default.conf donde pondremos las direcciones y otra informacion.
 
-  ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/514ef4bb-bb01-43fe-9e33-4fb3d5a46ad2)
+   ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/bc8a5111-96a1-4aa9-b745-ca8cd78547d2)
+
 
   2. Ejecutamos los 3 index por separado:
 
@@ -21,7 +22,6 @@ Vamos a hacer un balanceador de carga con docker.
 
   ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/1d60c22c-7687-4a70-892c-85b0e360f922)
 
-  4. Ahora accedemos a http://localhost:8085:
-
+  4. Ahora accedemos a http://localhost:8085 y cuando recargamos balancea entre las diferentes paginas:
 
      ![image](https://github.com/fmartingv/Balanceador-carga/assets/120713266/2e775a54-41af-43b9-b378-da1410a6388d)
